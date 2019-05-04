@@ -2125,7 +2125,7 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>ipip测试</string>
+			<string>baidu测试</string>
 			<key>PayloadDescription</key>
 			<string>配置 Web Clip 设置</string>
 			<key>PayloadDisplayName</key>
@@ -2141,7 +2141,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://www.ipip.net</string>
+			<string>https://www.baidu.com</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
